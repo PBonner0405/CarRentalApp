@@ -1,5 +1,3 @@
-import CleanWebpackPlugin from 'clean-webpack-plugin';
-
 import paths from './paths';
 
 module.exports = {
