@@ -1,0 +1,24 @@
+.square {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #FFFFFF; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #FFFFFF; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #FFFFFF; 
+}
